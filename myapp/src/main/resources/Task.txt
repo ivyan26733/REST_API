@@ -1,0 +1,3 @@
+-> Routes were not protected according to the roles.
+-> Resolved that by changing routes and implement authority in userDetailSer file as authority are already being stored
+
